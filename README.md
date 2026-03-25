@@ -2,6 +2,7 @@
 
 
 Project Overview
+
 This project focuses on analyzing Netflix movies and TV shows data using Power BI. The dashboard provides a comprehensive view of content distribution, including genres, ratings, release trends, and country-wise availability. It helps users understand patterns in Netflix content and supports data-driven insights.
 ________________________________________
 
